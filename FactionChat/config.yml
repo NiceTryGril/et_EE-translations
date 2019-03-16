@@ -3,11 +3,11 @@ MessageLanguage: other
 # These can be modified to your liking.
 message:
   english:
-    NotInFaction: You are not member of any faction
+    NotInFaction: Sa pole liige factionis
     IncorectChatModeSwitch: 'Error: please use /fc to switch chat mode or'
     SpyModeOn: Spy mode is now on
     SpyModeOff: Spy mode is now off
-    NewChatMode: 'Your chat mode has been changed to: '
+    NewChatMode: 'Sinu chat on muutetud: '
     FchatoMissType: 'Error: Please use /fco factionname message.'
     FchatoNoOneOnline: 'Error: either no faction member is online or incorrect faction
       name'
