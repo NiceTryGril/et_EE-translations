@@ -1,6 +1,6 @@
 messages:
   prefix: '&2&lEhita > '
-  no-permission: '&cYou don''t have enough permissions to do that!'
+  no-permission: '&cSul pole õigust et seda kasutada!'
   no-console: '&cThis command can only be used in-game.'
   disabled: '&cSeda ei saa loomingulises moodis teha!'
   disabled-interact: '&cSa ei saa seda teha, sest see on pärit loomingulisest moodist.'
